@@ -1,1 +1,2 @@
-测试配置文件dev
+config:
+  info: dev
